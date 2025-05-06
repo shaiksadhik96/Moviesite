@@ -5,7 +5,7 @@ import Home from './pages/Home';
 import ListOfMovies from './pages/ListOfMovies';
 import MovieDetails from './pages/MovieDetails';
 import ReviewSubmit from './pages/ReviewSubmit';
-import LoginSignup from './pages/LoginSignup';
+import LoginSignup from './pages/LoginSignUp';
 import About from './pages/about';
 import Contact from './pages/Contact';
 
